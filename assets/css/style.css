@@ -1,0 +1,7 @@
+.row-center {
+    text-align:center;
+}
+.col-center {
+    display:inline-block;
+    float:none;
+}
